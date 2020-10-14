@@ -11,6 +11,10 @@ h1. overview
 
 ![image](../../assets/struct03.png)
 
+# Struct method set
+
+
+
 
 ### Links
 [Padding is hard ](https://dave.cheney.net/2015/10/09/padding-is-hard) - Dave Cheney
